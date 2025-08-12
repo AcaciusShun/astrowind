@@ -3,9 +3,9 @@ title: 'Terms and Conditions'
 layout: '~/layouts/MarkdownLayout.astro'
 ---
 
-_Last updated_: January 06, 2023
+_Last updated_: December 15, 2024
 
-Please read these terms and conditions carefully before using Our Service.
+Please read these terms and conditions carefully before using Somincola's services.
 
 ## Interpretation and Definitions
 
@@ -17,35 +17,35 @@ The words of which the initial letter is capitalized have meanings defined under
 
 For the purposes of these Terms and Conditions:
 
-- **Affiliate** means an entity that controls, is controlled by or is under common control with a party, where "control" means ownership of 50% or more of the shares, equity interest or other securities entitled to vote for election of directors or other managing authority.
+- **Client** means an individual or business entity that engages Somincola's professional services.
 
-- **Country** refers to: California, United States
+- **Country** refers to: Wyoming, United States
 
-- **Company** (referred to as either "the Company", "We", "Us" or "Our" in this Agreement) refers to AstroWind LLC, 1 Cupertino, CA 95014.
+- **Company** (referred to as either "the Company", "Somincola", "We", "Us" or "Our" in this Agreement) refers to Somincola, located at 30 N Gould St Ste N, Sheridan, WY 82801 US.
 
-- **Device** means any device that can access the Service such as a computer, a cellphone or a digital tablet.
+- **Device** means any device that can access our services such as a computer, a cellphone or a digital tablet.
 
-- **Service** refers to the Website.
+- **Services** refers to our professional business consulting, financial services, and related business solutions.
 
-- **Terms and Conditions** (also referred as "Terms") mean these Terms and Conditions that form the entire agreement between You and the Company regarding the use of the Service. This Terms and Conditions agreement is a Demo.
+- **Terms and Conditions** (also referred as "Terms") mean these Terms and Conditions that form the entire agreement between you and Somincola regarding the use of our services.
 
-- **Third-party Social Media Service** means any services or content (including data, information, products or services) provided by a third-party that may be displayed, included or made available by the Service.
+- **Third-party Service** means any services or content provided by a third-party that may be used in connection with our services.
 
-- **Website** refers to AstroWind, accessible from [https://astrowind.vercel.app](https://astrowind.vercel.app)
+- **Website** refers to Somincola's website, accessible from [https://somincola.com](https://somincola.com)
 
-- **You** means the individual accessing or using the Service, or the company, or other legal entity on behalf of which such individual is accessing or using the Service, as applicable.
+- **You** means the individual accessing or using our services, or the company, or other legal entity on behalf of which such individual is accessing or using our services, as applicable.
 
 ## Acknowledgment
 
-These are the Terms and Conditions governing the use of this Service and the agreement that operates between You and the Company. These Terms and Conditions set out the rights and obligations of all users regarding the use of the Service.
+These are the Terms and Conditions governing the use of Somincola's services and the agreement that operates between you and Somincola. These Terms and Conditions set out the rights and obligations of all clients regarding the use of our services.
 
-Your access to and use of the Service is conditioned on Your acceptance of and compliance with these Terms and Conditions. These Terms and Conditions apply to all visitors, users and others who access or use the Service.
+Your access to and use of our services is conditioned on your acceptance of and compliance with these Terms and Conditions. These Terms and Conditions apply to all visitors, clients and others who access or use our services.
 
-By accessing or using the Service You agree to be bound by these Terms and Conditions. If You disagree with any part of these Terms and Conditions then You may not access the Service.
+By accessing or using our services you agree to be bound by these Terms and Conditions. If you disagree with any part of these Terms and Conditions then you may not access our services.
 
-You represent that you are over the age of 18\. The Company does not permit those under 18 to use the Service.
+You represent that you are over the age of 18 or are a legal business entity. Somincola does not provide services to individuals under 18.
 
-Your access to and use of the Service is also conditioned on Your acceptance of and compliance with the Privacy Policy of the Company. Our Privacy Policy describes Our policies and procedures on the collection, use and disclosure of Your personal information when You use the Application or the Website and tells You about Your privacy rights and how the law protects You. Please read Our Privacy Policy carefully before using Our Service.
+Your access to and use of our services is also conditioned on your acceptance of and compliance with our Privacy Policy. Our Privacy Policy describes our policies and procedures on the collection, use and disclosure of your personal information when you use our services and tells you about your privacy rights and how the law protects you. Please read our Privacy Policy carefully before using our services.
 
 ## Links to Other Websites
 
@@ -115,6 +115,8 @@ By continuing to access or use Our Service after those revisions become effectiv
 
 ## Contact Us
 
-If you have any questions about these Terms and Conditions, You can contact us:
+If you have any questions about these Terms and Conditions, you can contact us:
 
-- By email: somecoolemail@domain.com
+- By email: contact@somincola.com
+- By mail: 30 N Gould St Ste N, Sheridan, WY 82801 US
+- Business hours: Monday - Friday: 9:00 AM - 5:00 PM (MST)
