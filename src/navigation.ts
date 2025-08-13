@@ -19,7 +19,7 @@ export const headerData = {
       href: getPermalink('/contact'),
     },
   ],
-  actions: [{ text: 'Apply Now', href: getPermalink('/contact'), target: '_self' }],
+  actions: [{ text: 'Get Started', href: getPermalink('/contact'), target: '_self' }],
 };
 
 export const footerData = {
@@ -35,9 +35,9 @@ export const footerData = {
     {
       title: 'Services',
       links: [
-        { text: 'Business Solutions', href: getPermalink('/services') },
-        { text: 'Financial Services', href: getPermalink('/services') },
-        { text: 'Consulting', href: getPermalink('/services') },
+        { text: 'SaaS Development', href: getPermalink('/services') },
+        { text: 'Cloud Solutions', href: getPermalink('/services') },
+        { text: 'Technology Consulting', href: getPermalink('/services') },
       ],
     },
     {
@@ -60,9 +60,7 @@ export const footerData = {
     { text: 'Terms', href: getPermalink('/terms') },
     { text: 'Privacy Policy', href: getPermalink('/privacy') },
   ],
-  socialLinks: [
-    { ariaLabel: 'Email', icon: 'tabler:mail', href: 'mailto:contact@somincola.com' },
-  ],
+  socialLinks: [{ ariaLabel: 'Email', icon: 'tabler:mail', href: 'mailto:contact@somincola.com' }],
   footNote: `
     © ${new Date().getFullYear()} Somincola. All rights reserved. | 30 N Gould St Ste N, Sheridan, WY 82801 US
   `,

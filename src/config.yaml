@@ -11,7 +11,7 @@ metadata:
   title:
     default: Somincola
     template: '%s — Somincola'
-  description: "Leading SaaS development and consulting company specializing in custom software solutions, digital transformation, and strategic technology consulting services."
+  description: 'Leading SaaS development and consulting company specializing in custom software solutions, digital transformation, and strategic technology consulting services.'
   robots:
     index: true
     follow: true

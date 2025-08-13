@@ -8,26 +8,28 @@ This is an **AstroWind** project - a website template built with **Astro 5.0** a
 
 ## Development Commands
 
-| Command | Purpose |
-|---------|---------|
-| `npm install` | Install dependencies |
-| `npm run dev` | Start development server at localhost:4321 |
-| `npm run build` | Build production site to ./dist/ |
-| `npm run preview` | Preview production build locally |
-| `npm run check` | Run comprehensive checks (Astro, ESLint, Prettier) |
-| `npm run fix` | Auto-fix ESLint and format with Prettier |
-| `npm run check:astro` | Run Astro type checking |
-| `npm run check:eslint` | Run ESLint linting |
-| `npm run check:prettier` | Check Prettier formatting |
+| Command                  | Purpose                                            |
+| ------------------------ | -------------------------------------------------- |
+| `npm install`            | Install dependencies                               |
+| `npm run dev`            | Start development server at localhost:4321         |
+| `npm run build`          | Build production site to ./dist/                   |
+| `npm run preview`        | Preview production build locally                   |
+| `npm run check`          | Run comprehensive checks (Astro, ESLint, Prettier) |
+| `npm run fix`            | Auto-fix ESLint and format with Prettier           |
+| `npm run check:astro`    | Run Astro type checking                            |
+| `npm run check:eslint`   | Run ESLint linting                                 |
+| `npm run check:prettier` | Check Prettier formatting                          |
 
 ## Architecture Overview
 
 ### Core Configuration
+
 - **Main config**: `src/config.yaml` - Central configuration for site metadata, blog settings, analytics, and UI theme
 - **Astro config**: `astro.config.ts` - Build configuration with integrations for Tailwind, MDX, Sitemap, Icons
 - **Navigation**: `src/navigation.ts` - Header and footer navigation structure
 
 ### Directory Structure
+
 ```
 src/
 ├── components/           # Reusable components
@@ -44,23 +46,27 @@ src/
 ```
 
 ### Component Architecture
+
 - **Widgets**: Large page sections (Hero, Features, Footer, etc.)
 - **UI Components**: Reusable elements (Button, Headline, Form, etc.)
 - **Common Components**: Shared utilities (Analytics, Metadata, Theme Toggle)
 - **Blog Components**: Blog-specific functionality (Grid, Pagination, Tags)
 
 ### Content Management
+
 - **Blog posts** are stored in `src/data/post/` as MDX/Markdown files
 - **Content schema** defined in `src/content/config.ts` with Zod validation
 - **Astro Content Collections** for type-safe content handling
 
 ### Styling System
+
 - **Tailwind CSS** with custom configuration in `tailwind.config.js`
 - **CSS custom properties** for theme colors (primary, secondary, accent)
 - **Dark mode** support with `class` strategy
 - **Custom styles** in `src/components/CustomStyles.astro`
 
 ### Key Features
+
 - **Static site generation** (output: 'static')
 - **Blog system** with categories, tags, and related posts
 - **SEO optimization** with Open Graph and Twitter cards
@@ -69,6 +75,7 @@ src/
 - **Analytics ready** (Google Analytics, Splitbee support)
 
 ### Utility Functions
+
 - **Permalinks**: `src/utils/permalinks.ts` - URL generation
 - **Blog utilities**: `src/utils/blog.ts` - Post filtering and sorting
 - **Image optimization**: `src/utils/images.ts` - Image processing helpers
