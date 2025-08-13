@@ -45,39 +45,39 @@ export const I18N = {
 
 // App configuration
 export const APP_BLOG = {
-  isEnabled: false,
-  isRelatedPostsEnabled: false,
+  isEnabled: true,
+  isRelatedPostsEnabled: true,
   postsPerPage: 6,
   post: {
-    isEnabled: false,
+    isEnabled: true,
     permalink: '/blog/%slug%',
     robots: {
-      index: false,
-      follow: false,
+      index: true,
+      follow: true,
     },
   },
   list: {
-    isEnabled: false,
+    isEnabled: true,
     pathname: 'blog',
     robots: {
-      index: false,
-      follow: false,
+      index: true,
+      follow: true,
     },
   },
   category: {
-    isEnabled: false,
+    isEnabled: true,
     pathname: 'category',
     robots: {
-      index: false,
-      follow: false,
+      index: true,
+      follow: true,
     },
   },
   tag: {
-    isEnabled: false,
+    isEnabled: true,
     pathname: 'tag',
     robots: {
-      index: false,
-      follow: false,
+      index: true,
+      follow: true,
     },
   },
 };

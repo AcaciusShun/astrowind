@@ -9,7 +9,8 @@
       "Bash(true)",
       "Bash(curl:*)",
       "Bash(taskkill:*)",
-      "Bash(npm run fix:*)"
+      "Bash(npm run fix:*)",
+      "Bash(mkdir:*)"
     ],
     "deny": [],
     "ask": []
